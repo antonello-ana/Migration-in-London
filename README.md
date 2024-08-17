@@ -1,3 +1,9 @@
-# Migration-in-London
+# The Gender Gap in Olympic Games
+France, where for the first time a woman competed in a Olympic game, enters to the history of the Olympics again in 2024, when for the first time in the history of Modern Olympic Games (and likely all the history) there will be 50/50 participation of men an women.
 
-This repository contains an analysis of the different nationalities across London Boroughs, based on place of birth data from the 2020 Census. The analysis was conducted using Python, with the Pandas library for data manipulation, and visualizations created with Matplotlib, Seaborn, and Bokeh.
+Here you gonna see some aspects of this story while I learn coding with Python and SQL.
+
+Have fun and add suggestions and comments.
+
+Data Source:
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
